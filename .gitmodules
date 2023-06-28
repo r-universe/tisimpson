@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "miRNAtap"]
 	path = miRNAtap
 	url = https://git.bioconductor.org/packages/miRNAtap
-	shallow = true
-	registered = true
